@@ -1,6 +1,9 @@
 htmldiff
 --------
 
+[![Build Status](https://travis-ci.org/mitsuhiko/htmldiff.svg?branch=master)](https://travis-ci.org/mitsuhiko/htmldiff)
+[![codecov](https://codecov.io/gh/mitsuhiko/htmldiff/branch/master/graph/badge.svg)](https://codecov.io/gh/mitsuhiko/htmldiff)
+
 A library that uses difflib, genshi and htmldiff to diff
 arbitrary fragments of HTML inline.
 
